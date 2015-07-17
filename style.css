@@ -1,0 +1,12 @@
+a{text-decoration: none;}
+div.header {color:#008B00; font-size:30px;background:#B3EE3A;text-align:center;}
+div.mid{ width: 1000px; margin:0 auto; margin-bottom: 40px; }
+div.mid h1{color:#008B00; text-align:center;}
+div.mid p{color:#008B00; font-size:20px; }
+div.recept img{float:right;}
+div.sec{width: 490px; float: left;margin-bottom: 40px; text-indent: 20px; height:300px;}
+div.sec:nth-of-type(even){ float: right;}
+div.com{color:#A52A2A;}
+.menu{float:right; margin:0; font-size:20px;color:#6495ED; margin-right:20px;margin-top:10px;}
+.menu:hover{color:#FF0000;}
+div.left{float:left;margin:0; font-size:20px;color:#6495ED; margin-right:20px;margin-top:10px;}
