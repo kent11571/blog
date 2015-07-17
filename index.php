@@ -3,6 +3,7 @@ session_start();
 ?>
 <html>
 <head>
+	<TITLE>Какахи</TITLE>
 <link rel ="stylesheet" href="style.css" media="all">
 </head>
 <body>
