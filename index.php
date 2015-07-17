@@ -146,5 +146,7 @@ else{
 			<div class="sec">
 				<img src="images/5.jpg" alt="Новость-5" title="Новость-5">	
 			</div>
+			<footer>Зорова Виктория 2015 г.
+			<footer>
 </body>
 </html>
